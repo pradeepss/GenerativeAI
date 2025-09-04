@@ -1,0 +1,39 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+transformers
+sentence-transformers
+
+# Agents / LLM frameworks
+langchain
+langgraph
+langsmith
+openai
+groq
+
+# Data Handling
+datasets
+requests
+
+# Visualization
+matplotlib
+seaborn
+
+# Explainability
+shap
+
+# Utilities
+tqdm
+jupyter
+notebook
+ipywidgets
+ipykernel
